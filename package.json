@@ -1,0 +1,12 @@
+{
+  "name": "terror",
+  "version": "1.0.0",
+  "scripts": {
+    "terror": "npx ts-node index.ts"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  }
+}
